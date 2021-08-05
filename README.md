@@ -1,9 +1,13 @@
 哈喽吖~ 欢迎来到我的 github
 
-<img src="https://images.cnblogs.com/cnblogs_com/miluluyo/1765646/o_200720075135o_a.gif" />
-
-
 [![Mango's github stats](https://github-readme-stats.vercel.app/api?username=miluluyo)](https://github.com/mango-lzp/github-readme-stats)
+
+<img src="https://github.com/miluluyo/photo_gallery/blob/master/qrcode.jpg" />
+
+
+
+
+
 <!--### Hi there 👋
 
 
