@@ -55,10 +55,11 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miluluyo" />
 </a>
-&nbsp;
+<!--&nbsp;
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miluluyo&layout=compact" />
 </a>
+-->
 
 &nbsp;
 
