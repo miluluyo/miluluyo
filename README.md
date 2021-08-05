@@ -18,7 +18,7 @@
 
 
 
-<img align="right" width="300" height="300" src="https://avatars.githubusercontent.com/u/38480924?v=4">
+<img align="right" width="300" height="169" src="https://github.com/miluluyo/photo_gallery/blob/master/maid.gif?raw=true">
 
 
 # Hi, I'm [麋鹿鲁哟!](https://www.cnblogs.com/miluluyo/) 👋.
