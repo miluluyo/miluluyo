@@ -1,4 +1,4 @@
-哈喽吖~ 欢迎来到我的 github
+<!--哈喽吖~ 欢迎来到我的 github-->
 
 
 
@@ -11,7 +11,7 @@
 
 
 
-<a href="https://github.com/miluluyo/photo_gallery/blob/master/qrcode.jpg" tarnk="_black">公众号『麋鹿鲁哟』</a>
+<!--<a href="https://github.com/miluluyo/photo_gallery/blob/master/qrcode.jpg" tarnk="_black">公众号『麋鹿鲁哟』</a>-->
 
 
 
