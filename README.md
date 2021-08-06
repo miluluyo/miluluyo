@@ -11,7 +11,7 @@
 
 
 
-<!--<a href="https://github.com/miluluyo/photo_gallery/blob/master/qrcode.jpg" tarnk="_black">公众号『麋鹿鲁哟』</a>-->
+<!--<a href="https://raw.githubusercontent.com/miluluyo/photo_gallery/master/qrcode.jpg" tarnk="_black">公众号『麋鹿鲁哟』</a>-->
 
 
 
@@ -45,7 +45,7 @@
 [![Blog](https://img.shields.io/badge/blog-博客园-blue)](https://www.cnblogs.com/miluluyo/)
 [![Blog](https://img.shields.io/badge/blog-vdoing-pink)](https://miluluyo.github.io/vdoingBlog/)
 [![Blog](https://img.shields.io/badge/blog-vuepress-lilac)](https://miluluyo.github.io/)
-[![公众号](https://img.shields.io/badge/公众号-麋鹿鲁哟-green)](https://github.com/miluluyo/photo_gallery/blob/master/qrcode.jpg)
+[![公众号](https://img.shields.io/badge/公众号-麋鹿鲁哟-green)](https://raw.githubusercontent.com/miluluyo/photo_gallery/master/qrcode.jpg)
 [![Mail](https://img.shields.io/badge/mail-miluluyo@163.com-red)](mailto:miluluyo@163.com)
 
 <!--[![码云](https://img.shields.io/badge/%E7%A0%81%E4%BA%91-miluluyo-red)](https://gitee.com/miluluyo)-->
